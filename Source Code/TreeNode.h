@@ -1,5 +1,5 @@
-#ifndef TREENODE_H
-#define TREENODE_H
+#pragma once
+
 #include <sstream>
 using namespace std;
 
@@ -18,5 +18,3 @@ struct TreeNode
 
 
 };
-
-#endif

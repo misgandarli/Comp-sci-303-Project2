@@ -1,5 +1,4 @@
-#ifndef BOOK_H
-#define BOOK_H
+#pragma once
 
 #include "Rating.h"
 #include "TreeNode.h"
@@ -16,5 +15,4 @@ class Book
 	
 };
 
-#endif
 

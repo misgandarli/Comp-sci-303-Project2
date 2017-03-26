@@ -1,5 +1,4 @@
-#ifndef RATING 
-#define RATING
+#pragma once
 
 class rating
 {
@@ -8,4 +7,3 @@ class rating
 };
 
 
-#endif

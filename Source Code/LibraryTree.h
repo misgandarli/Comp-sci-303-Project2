@@ -1,6 +1,4 @@
-#ifndef LIBRARYTREE_H
-#define LIBRARYTREE_H
-
+#pragma once
 #include <sstream>
 #include <string>
 #include <cmath>
@@ -22,7 +20,7 @@ public:
 	void setSubRight(TreeNode book);
 	void setRoot(TreeNode<Item_Type> newRoot);
 
-	TreeNode& getBook
+	//TreeNode& getBook;
 
 private:
 	TreeNode root;
@@ -30,4 +28,3 @@ private:
 
 
 };
-#endif
