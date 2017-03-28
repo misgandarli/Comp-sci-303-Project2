@@ -1,6 +1,4 @@
-#ifndef BOOK_H
-#define BOOK_H
-
+#pragma once
 #include "Rating.h"
 #include "TreeNode.h"
 #include "LibraryTree.h"
@@ -24,5 +22,3 @@ public:
 	string getTitle();
 
 };
-#endif
-
